@@ -15,5 +15,5 @@ jobs:
             username: student
             password: Student1234#*
             protocol: ftp
-            server-dir: /var/www/html/bazylipiotr
+            server-dir: /var/www/html/bazylipiotr/
         
